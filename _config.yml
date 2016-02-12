@@ -1,0 +1,22 @@
+# Plugins
+whitelist: []
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Conversion
+excerpt_separator: "<!--content-->"
+
+# Setup
+title: arhipov.net
+description: Technical blog
+url: http://arhipov.net
+baseurl: /
+
+# For jekyl-feed
+name: arhipov.net
+author:
+  name: Nikolay Arhipov
+  email: nikolajs.arhipovs@gmail.com
+  uri: http://arhipov.net

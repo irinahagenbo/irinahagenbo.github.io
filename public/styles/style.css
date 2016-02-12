@@ -1,0 +1,14 @@
+.m-t {
+  margin-top: 20px;
+}
+.navbar img.brand {
+  height: 30px;
+  line-height: 45px;
+  display: inline-block;
+  margin-top: -5px;
+  margin-right: 10px;
+}
+.post-date {
+  color: gray;
+  margin-bottom: 20px;
+}

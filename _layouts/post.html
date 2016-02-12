@@ -1,0 +1,21 @@
+---
+layout: page
+comments: true
+---
+
+<div class="container">
+    <h2> {{ page.title }} </h2>
+    <div class="post-date">{{ page.date | date_to_long_string }}</div>
+    <p>{{ content }}</p>
+</div>
+<div class="container m-t">
+    <div id="disqus_thread"></div>
+    <script>
+        (function() {
+            var d = document, s = d.createElement('script');
+            s.src = '//arhipovblog.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+</div>
