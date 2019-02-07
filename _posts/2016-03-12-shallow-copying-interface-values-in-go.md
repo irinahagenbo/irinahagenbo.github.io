@@ -2,7 +2,7 @@
 layout: post
 title: Orff Pedagogija Starptautiskie Seminari
 categories:
-  - orf-pedagogija
+  - golang
 ---
 
 TODO ADD abstract
