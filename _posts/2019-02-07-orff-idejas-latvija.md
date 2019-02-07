@@ -6,7 +6,11 @@ categories:
 ---
 
 TODO Short except 24564564
+Bullet list:
 
+  * apples
+  * oranges
+  * pears
 
 <!--content-->
 
