@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Shallow copying interface values in Go
+title: orff-starptautiskie-seminari
 categories:
-  - golang
+  - orff
 ---
 
 In go shallow copying of _struct values_ can be considered as a feature built in the language. It is pretty obvious from language specification, that whenever you assign _struct_ to a new variable or pass it to a function _by value_ it gets copied.
