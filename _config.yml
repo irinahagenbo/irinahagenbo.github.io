@@ -9,14 +9,14 @@ gems:
 excerpt_separator: "<!--content-->"
 
 # Setup
-title: arhipov.net
-description: Technical blog
-url: http://arhipov.net
+title: makingmusic.lv
+description: Musical blog
+url: http://makingmusic.lv
 baseurl: /
 
 # For jekyl-feed
-name: arhipov.net
+name: makingmusic.lv
 author:
-  name: Nikolay Arhipov
-  email: nikolajs.arhipovs@gmail.com
-  uri: http://arhipov.net
+  name: Irina Hagenbo
+  email: irina.kozjura@gmail.com
+  uri: http://makingmusic.lv
