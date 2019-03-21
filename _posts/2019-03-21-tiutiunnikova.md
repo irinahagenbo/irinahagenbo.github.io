@@ -6,7 +6,7 @@ categories:
 ---
 ![tatiana](/public/tatiana.png)
 
-Tatiana Tiutiunnikova (Татьяна Тютюнникова), Maskavas pedagoģe praktiķe,  rff  Schulwerk asociācijas līdere Krievijā, Maskavas Pedagoģijas universitātes pasniedzēja un  starptautisko Orff semināru vadītāja, daudzu metodisko līdzekļu autore. Pedagoģes rakstus par Orff pedagoģiju un savu pieredzi, mācību video, informāciju par kursiem un mācību līdzekļiem atradīsiet viņas mājas lapā www.orff.ru
+Tatiana Tiutiunnikova (Татьяна Тютюнникова), Maskavas pedagoģe praktiķe,  rff  Schulwerk asociācijas līdere Krievijā, Maskavas Pedagoģijas universitātes pasniedzēja un  starptautisko Orff semināru vadītāja, daudzu metodisko līdzekļu autore. Pedagoģes rakstus par Orff pedagoģiju un savu pieredzi, mācību video, informāciju par kursiem un mācību līdzekļiem atradīsiet viņas mājas lapā [www.orff.ru](htps://www.orff.ru)
 <!--content-->
 Lektores T. Tjutjunnikovas izstrādātā programma mūzikas skolotājiem (5 semināru cikls) periodā no 2005. līdz 2017.gada tika vairākkārt īstenota Latvijā. 
 Semināru cikls dod iespēju praktiski apgūt K.Orfa pedagoģijas principus un elementārās muzicēšanas 
