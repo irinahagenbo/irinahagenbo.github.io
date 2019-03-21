@@ -8,5 +8,3 @@ categories:
 <!--content-->
 Aicinām Jūs kopā ar mums pētīt un atbalstīt radošās muzicēšanas idejas, mācīties, dalīties savā pieredzē ar kolēģiem un dāvināt prieku saviem audzēkņiem. 
 Esmu pārliecināta, ka gan mūzikas, gan mūzikas izglītības visdziļākā misija ir palīdzēt cilvēkam kļūt laimīgākam. Ja iegūsim pozitīvām emocijām piepildītu mūzikas apguves un izpildīšanas pieredzi, piedzīvosim jaunrades prieku un attīstīsim nepieciešamās iemaņas un prasmes – radošā muzicēšana paliks ar mums uz ilgu laiku kā dzīves neatņemama, nepieciešama sastāvdaļa.
-
-
