@@ -1,6 +1,6 @@
 ---
 layout: post
-title: orff-starptautiskie-seminari
+title: Par mums
 categories:
   - orff
 ---
