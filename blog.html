@@ -1,0 +1,38 @@
+---
+layout: page
+title: Home
+permalink: /
+order: 1
+---
+
+{% for post in site.posts %}
+<div class="container">
+    <h2>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <!--<div class="post-date">{{ post.date | date_to_long_string }}</div>-->
+    <p>{{ post.excerpt }}</p>
+    <a class="btn btn-sm btn-default" href="{{ post.url }}">
+        Read more
+    </a>
+</div>
+{% endfor %}
+
+<div class="container">
+    <div class="pagination">
+        {% if paginator.next_page %}
+        <a class="btn btn-sm btn-default" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+        {% else %}
+        <button class="btn btn-sm btn-default" disabled="disabled">Older</button>
+        {% endif %}
+        {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+        <a class="btn btn-sm btn-default" href="{{ site.baseurl }}">Newer</a>
+        {% else %}
+        <a class="btn btn-sm btn-default" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+        {% endif %}
+        {% else %}
+        <button class="btn btn-sm btn-default" disabled="disabled">Newer</button>
+        {% endif %}
+    </div>
+</div>
